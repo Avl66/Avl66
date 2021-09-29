@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## simple To Do tracker application
 
-created using __React, React Hooks like useContext & useReducer__
-deployed in Firebase cloud.
-check it out my app here: [To-do-app](https://to-do-tracker-d.web.app)
+Created using __React, React Hooks like useContext & useReducer__\
+Deployed in Firebase cloud.\
+Check it out my app here: [To-do-app](https://to-do-tracker-d.web.app)
 
 ## Available Scripts
 
