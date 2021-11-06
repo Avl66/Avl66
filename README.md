@@ -1,11 +1,11 @@
 # Hello, this is Uma and welcome to my Github Repo :)
 
 - 👋 Hi, I’m @**Avl66**
-- :woman_technologist: *A front-end web developer*
-- :technologist: **3** years experienced in IT
-- 🌱 **Technologies:** React, Redux, ES6, jQuery/Javascript, Bootstrap, HTML5, CSS, SASS, Responsive Web Design
+- :woman_technologist: *An enthusiastic front-end developer*
+- :technologist: **3.3** years experienced in IT
+- 🌱 **Technologies:** React, Redux, ES6, jQuery/Javascript, Bootstrap5, HTML5, CSS, SASS, Responsive Web Design
 - 🌱 **CMS:** Kentico, Sitecore
-- 💞️ I’m going to upload my creations here using above technologies.
+- 💞️ Very passionate to develop react applications. I’m going to upload my projects here using above technologies.
 - 📫 Wanna talk? 
      **Mail me**: umasonu240@gmail.com
 
