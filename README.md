@@ -1,13 +1,13 @@
 # Hello, this is Uma and welcome to my Github Repo :)
 
-- 👋 Hi, I’m @**Avl66**
+- 👋 Hi, myself **Uma**
 - :woman_technologist: *An enthusiastic front-end developer*
-- :technologist: **3.3** years experienced in IT
-- 🌱 **Technologies:** React, Redux, ES6, jQuery/Javascript, Bootstrap5, HTML5, CSS, SASS, Responsive Web Design
+- :technologist: **4.6** years experienced in IT
+- 🌱 **Technologies:** React, Redux, NextJS, Javascript/ES6, Bootstrap5, HTML5, CSS3, SASS/SCSS, Responsive Web Design, Jest, React Testing Library(jest-dom)
 - 🌱 **CMS:** Kentico, Sitecore
 - 💞️ Very passionate to develop react applications. I’m going to upload my projects here using above technologies.
 - 📫 Wanna talk? 
-     **Mail me**: umasonu240@gmail.com
+     **Mail me**: umaavula13@gmail.com
 
 <!---
 Avl66/Avl66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
